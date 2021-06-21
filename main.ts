@@ -260,7 +260,7 @@ namespace sensors {
     /**
      * 激光模块
      */
-    //% blockId=actuator_laser block="actuator_laser pin ：%pin|status %status"   group="激光模块"
+    //% blockId=actuator_laser block="actuator_laser pin ：%pin|status %status"   group="Test"
 	//% weight=70
 	//% subcategory="执行器"
     export function actuator_laser(pin: DigitalPin,status: on_off): void {
